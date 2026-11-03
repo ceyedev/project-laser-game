@@ -1,0 +1,17 @@
+{
+    "name": "project laser",
+    "short_name": "laser",
+    "icons": [
+        {
+            "src": "appicon-192.com",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "appicon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "display": "standalone"
+}
